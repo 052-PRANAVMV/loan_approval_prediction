@@ -1,0 +1,10 @@
+Model Accuracy: 0.8947368421052632
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.88      0.88         8
+           1       0.91      0.91      0.91        11
+
+    accuracy                           0.89        19
+   macro avg       0.89      0.89      0.89        19
+weighted avg       0.89      0.89      0.89        19
